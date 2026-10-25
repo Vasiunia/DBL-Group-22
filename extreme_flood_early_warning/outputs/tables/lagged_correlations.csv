@@ -1,0 +1,649 @@
+period,driver,lag_weeks,spearman_r
+2003–2025,Lake Albert level anomaly,0,0.48306090936814
+2003–2025,Lake Albert level anomaly,2,0.4779688370314881
+2003–2025,Lake Albert level anomaly,4,0.4694534766342021
+2003–2025,Lake Albert level anomaly,6,0.46674154526736494
+2003–2025,Lake Albert level anomaly,8,0.45812380285101645
+2003–2025,Lake Albert level anomaly,10,0.4474792298813243
+2003–2025,Lake Albert level anomaly,12,0.44334642045816386
+2003–2025,Lake Albert level anomaly,14,0.4394301260643163
+2003–2025,Lake Albert level anomaly,16,0.4334566641278802
+2003–2025,Lake Albert level anomaly,18,0.43652545063231263
+2003–2025,Lake Albert level anomaly,20,0.4340401929596194
+2003–2025,Lake Albert level anomaly,22,0.4303596060864936
+2003–2025,Lake Albert level anomaly,24,0.4311531239523651
+2003–2025,Lake Albert level anomaly,26,0.43309884956015865
+2003–2025,Lake Albert level anomaly,28,0.43140162822289596
+2003–2025,Lake Albert level anomaly,30,0.42968692954969173
+2003–2025,Lake Albert level anomaly,32,0.43064321370937614
+2003–2025,Lake Albert level anomaly,34,0.4287102039270971
+2003–2025,Lake Albert level anomaly,36,0.4274739081609531
+2003–2025,Lake Albert level anomaly,38,0.429848939566098
+2003–2025,Lake Albert level anomaly,40,0.4316625119368358
+2003–2025,Lake Albert level anomaly,42,0.4363561452366563
+2003–2025,Lake Albert level anomaly,44,0.4443001565052328
+2003–2025,Lake Albert level anomaly,46,0.4490896695359434
+2003–2025,Lake Albert level anomaly,48,0.4565972146379952
+2003–2025,Lake Albert level anomaly,50,0.46571884013371084
+2003–2025,Lake Albert level anomaly,52,0.4745752728690688
+2003–2025,Lake Albert 26-wk rise,0,0.08629421634146055
+2003–2025,Lake Albert 26-wk rise,2,0.07908786458089116
+2003–2025,Lake Albert 26-wk rise,4,0.06767853772209098
+2003–2025,Lake Albert 26-wk rise,6,0.06623655767394526
+2003–2025,Lake Albert 26-wk rise,8,0.05953073193000124
+2003–2025,Lake Albert 26-wk rise,10,0.05052485402795506
+2003–2025,Lake Albert 26-wk rise,12,0.041892112581243666
+2003–2025,Lake Albert 26-wk rise,14,0.03421338887569398
+2003–2025,Lake Albert 26-wk rise,16,0.01997845646779982
+2003–2025,Lake Albert 26-wk rise,18,0.018593800698475424
+2003–2025,Lake Albert 26-wk rise,20,0.009975729491373068
+2003–2025,Lake Albert 26-wk rise,22,-0.0030327044357996128
+2003–2025,Lake Albert 26-wk rise,24,-0.009527237307027965
+2003–2025,Lake Albert 26-wk rise,26,-0.01675158844736653
+2003–2025,Lake Albert 26-wk rise,28,-0.021992543281524585
+2003–2025,Lake Albert 26-wk rise,30,-0.025705712815777396
+2003–2025,Lake Albert 26-wk rise,32,-0.02408556116936019
+2003–2025,Lake Albert 26-wk rise,34,-0.029398891301013905
+2003–2025,Lake Albert 26-wk rise,36,-0.035265421722336536
+2003–2025,Lake Albert 26-wk rise,38,-0.038323171587522346
+2003–2025,Lake Albert 26-wk rise,40,-0.03360355834427118
+2003–2025,Lake Albert 26-wk rise,42,-0.036946338171250544
+2003–2025,Lake Albert 26-wk rise,44,-0.02583065815032821
+2003–2025,Lake Albert 26-wk rise,46,-0.02294294255156751
+2003–2025,Lake Albert 26-wk rise,48,-0.012437294394524075
+2003–2025,Lake Albert 26-wk rise,50,-0.006688639988227121
+2003–2025,Lake Albert 26-wk rise,52,0.0021340370270370684
+2003–2025,"Equatorial-lakes rain, 52-wk",0,-0.001190677916394445
+2003–2025,"Equatorial-lakes rain, 52-wk",2,0.0030428528233848746
+2003–2025,"Equatorial-lakes rain, 52-wk",4,0.0029374395551877448
+2003–2025,"Equatorial-lakes rain, 52-wk",6,-0.0009430388542441984
+2003–2025,"Equatorial-lakes rain, 52-wk",8,-0.005067649378928298
+2003–2025,"Equatorial-lakes rain, 52-wk",10,-0.008144314725970199
+2003–2025,"Equatorial-lakes rain, 52-wk",12,-0.007662057444113107
+2003–2025,"Equatorial-lakes rain, 52-wk",14,-0.009673676907103808
+2003–2025,"Equatorial-lakes rain, 52-wk",16,-0.007549446254213265
+2003–2025,"Equatorial-lakes rain, 52-wk",18,-0.009332214862643384
+2003–2025,"Equatorial-lakes rain, 52-wk",20,-0.015849722894858205
+2003–2025,"Equatorial-lakes rain, 52-wk",22,-0.023660783915444305
+2003–2025,"Equatorial-lakes rain, 52-wk",24,-0.029563565823119836
+2003–2025,"Equatorial-lakes rain, 52-wk",26,-0.02635876844198556
+2003–2025,"Equatorial-lakes rain, 52-wk",28,-0.02754867552450735
+2003–2025,"Equatorial-lakes rain, 52-wk",30,-0.02720503292296574
+2003–2025,"Equatorial-lakes rain, 52-wk",32,-0.03268298120007192
+2003–2025,"Equatorial-lakes rain, 52-wk",34,-0.040476809569712245
+2003–2025,"Equatorial-lakes rain, 52-wk",36,-0.04394519741304611
+2003–2025,"Equatorial-lakes rain, 52-wk",38,-0.04631682754458594
+2003–2025,"Equatorial-lakes rain, 52-wk",40,-0.049373333155300805
+2003–2025,"Equatorial-lakes rain, 52-wk",42,-0.05214769273527808
+2003–2025,"Equatorial-lakes rain, 52-wk",44,-0.045410479688234924
+2003–2025,"Equatorial-lakes rain, 52-wk",46,-0.028879523677861185
+2003–2025,"Equatorial-lakes rain, 52-wk",48,-0.025035923766453604
+2003–2025,"Equatorial-lakes rain, 52-wk",50,-0.009803215192180074
+2003–2025,"Equatorial-lakes rain, 52-wk",52,-0.0020834424299085055
+2003–2025,"Equatorial-lakes runoff, 52-wk",0,0.019724749911587177
+2003–2025,"Equatorial-lakes runoff, 52-wk",2,0.01485380553139519
+2003–2025,"Equatorial-lakes runoff, 52-wk",4,0.008259616889975011
+2003–2025,"Equatorial-lakes runoff, 52-wk",6,0.0007464171888995262
+2003–2025,"Equatorial-lakes runoff, 52-wk",8,-0.006230007831064506
+2003–2025,"Equatorial-lakes runoff, 52-wk",10,-0.01165203245793243
+2003–2025,"Equatorial-lakes runoff, 52-wk",12,-0.017176359239709678
+2003–2025,"Equatorial-lakes runoff, 52-wk",14,-0.023439884455335826
+2003–2025,"Equatorial-lakes runoff, 52-wk",16,-0.025780691648643637
+2003–2025,"Equatorial-lakes runoff, 52-wk",18,-0.030277180905735945
+2003–2025,"Equatorial-lakes runoff, 52-wk",20,-0.03561295200003412
+2003–2025,"Equatorial-lakes runoff, 52-wk",22,-0.039653975660680886
+2003–2025,"Equatorial-lakes runoff, 52-wk",24,-0.04169300486507111
+2003–2025,"Equatorial-lakes runoff, 52-wk",26,-0.037377189345498794
+2003–2025,"Equatorial-lakes runoff, 52-wk",28,-0.0357844278144521
+2003–2025,"Equatorial-lakes runoff, 52-wk",30,-0.03363034991845663
+2003–2025,"Equatorial-lakes runoff, 52-wk",32,-0.034968729327079714
+2003–2025,"Equatorial-lakes runoff, 52-wk",34,-0.03655085543401865
+2003–2025,"Equatorial-lakes runoff, 52-wk",36,-0.03756956100786994
+2003–2025,"Equatorial-lakes runoff, 52-wk",38,-0.03617400794813403
+2003–2025,"Equatorial-lakes runoff, 52-wk",40,-0.03323945381163174
+2003–2025,"Equatorial-lakes runoff, 52-wk",42,-0.02912034676302039
+2003–2025,"Equatorial-lakes runoff, 52-wk",44,-0.018974520220020222
+2003–2025,"Equatorial-lakes runoff, 52-wk",46,-0.0077672415454832335
+2003–2025,"Equatorial-lakes runoff, 52-wk",48,-0.0017683588761260888
+2003–2025,"Equatorial-lakes runoff, 52-wk",50,0.009155523766798748
+2003–2025,"Equatorial-lakes runoff, 52-wk",52,0.014845590247869566
+2003–2025,"Sobat/Ethiopia rain, 13-wk",0,-0.10505826794875343
+2003–2025,"Sobat/Ethiopia rain, 13-wk",2,-0.06060200073369148
+2003–2025,"Sobat/Ethiopia rain, 13-wk",4,-0.04894660716229633
+2003–2025,"Sobat/Ethiopia rain, 13-wk",6,-0.039555440869518524
+2003–2025,"Sobat/Ethiopia rain, 13-wk",8,-0.0327832139090889
+2003–2025,"Sobat/Ethiopia rain, 13-wk",10,-0.027349480940695864
+2003–2025,"Sobat/Ethiopia rain, 13-wk",12,-0.03220877947940648
+2003–2025,"Sobat/Ethiopia rain, 13-wk",14,-0.03921439549201629
+2003–2025,"Sobat/Ethiopia rain, 13-wk",16,-0.04341686023783798
+2003–2025,"Sobat/Ethiopia rain, 13-wk",18,-0.04605209472047599
+2003–2025,"Sobat/Ethiopia rain, 13-wk",20,-0.04551493809465287
+2003–2025,"Sobat/Ethiopia rain, 13-wk",22,-0.04392482587101532
+2003–2025,"Sobat/Ethiopia rain, 13-wk",24,-0.042535033231976375
+2003–2025,"Sobat/Ethiopia rain, 13-wk",26,-0.04918804135899421
+2003–2025,"Sobat/Ethiopia rain, 13-wk",28,-0.04962175346799765
+2003–2025,"Sobat/Ethiopia rain, 13-wk",30,-0.06927794777606415
+2003–2025,"Sobat/Ethiopia rain, 13-wk",32,-0.10487877823983963
+2003–2025,"Sobat/Ethiopia rain, 13-wk",34,-0.1308285255623191
+2003–2025,"Sobat/Ethiopia rain, 13-wk",36,-0.16467227840786144
+2003–2025,"Sobat/Ethiopia rain, 13-wk",38,-0.18365732988524988
+2003–2025,"Sobat/Ethiopia rain, 13-wk",40,-0.20724630819489967
+2003–2025,"Sobat/Ethiopia rain, 13-wk",42,-0.22736348546438306
+2003–2025,"Sobat/Ethiopia rain, 13-wk",44,-0.23603509222594127
+2003–2025,"Sobat/Ethiopia rain, 13-wk",46,-0.23276044410149127
+2003–2025,"Sobat/Ethiopia rain, 13-wk",48,-0.23317631939245956
+2003–2025,"Sobat/Ethiopia rain, 13-wk",50,-0.21319669430254828
+2003–2025,"Sobat/Ethiopia rain, 13-wk",52,-0.19141213739425586
+2003–2025,SW Ethiopia discharge (regional),0,0.4275233199512117
+2003–2025,SW Ethiopia discharge (regional),2,0.41014192931805127
+2003–2025,SW Ethiopia discharge (regional),4,0.39190642697619804
+2003–2025,SW Ethiopia discharge (regional),6,0.37979783169883014
+2003–2025,SW Ethiopia discharge (regional),8,0.3901266722587655
+2003–2025,SW Ethiopia discharge (regional),10,0.39327924738114006
+2003–2025,SW Ethiopia discharge (regional),12,0.40930454331550514
+2003–2025,SW Ethiopia discharge (regional),14,0.3847352032088314
+2003–2025,SW Ethiopia discharge (regional),16,0.3869762464434502
+2003–2025,SW Ethiopia discharge (regional),18,0.3684300077730784
+2003–2025,SW Ethiopia discharge (regional),20,0.3684555216798181
+2003–2025,SW Ethiopia discharge (regional),22,0.3438561572465822
+2003–2025,SW Ethiopia discharge (regional),24,0.3221090205033598
+2003–2025,SW Ethiopia discharge (regional),26,0.36159826688212077
+2003–2025,SW Ethiopia discharge (regional),28,0.35590122817394954
+2003–2025,SW Ethiopia discharge (regional),30,0.354280074261927
+2003–2025,SW Ethiopia discharge (regional),32,0.3409033600417606
+2003–2025,SW Ethiopia discharge (regional),34,0.3236560215857235
+2003–2025,SW Ethiopia discharge (regional),36,0.3265760479342836
+2003–2025,SW Ethiopia discharge (regional),38,0.3244368519931447
+2003–2025,SW Ethiopia discharge (regional),40,0.305647644402779
+2003–2025,SW Ethiopia discharge (regional),42,0.3187830772041322
+2003–2025,SW Ethiopia discharge (regional),44,0.3154740887778781
+2003–2025,SW Ethiopia discharge (regional),46,0.30874466045850374
+2003–2025,SW Ethiopia discharge (regional),48,0.3079712675562862
+2003–2025,SW Ethiopia discharge (regional),50,0.2925036213176378
+2003–2025,SW Ethiopia discharge (regional),52,0.3007166131749915
+2003–2025,"South Sudan rain, 4-wk",0,-0.1906106611390563
+2003–2025,"South Sudan rain, 4-wk",2,-0.12764154416587203
+2003–2025,"South Sudan rain, 4-wk",4,-0.13928811828665222
+2003–2025,"South Sudan rain, 4-wk",6,-0.13429520507112438
+2003–2025,"South Sudan rain, 4-wk",8,-0.11830137790877657
+2003–2025,"South Sudan rain, 4-wk",10,-0.11702589784971672
+2003–2025,"South Sudan rain, 4-wk",12,-0.12889234712433315
+2003–2025,"South Sudan rain, 4-wk",14,-0.1301257646539638
+2003–2025,"South Sudan rain, 4-wk",16,-0.13233523494982583
+2003–2025,"South Sudan rain, 4-wk",18,-0.13406200699130003
+2003–2025,"South Sudan rain, 4-wk",20,-0.13036391412614132
+2003–2025,"South Sudan rain, 4-wk",22,-0.15126184541410365
+2003–2025,"South Sudan rain, 4-wk",24,-0.17572240419466822
+2003–2025,"South Sudan rain, 4-wk",26,-0.1823813394091663
+2003–2025,"South Sudan rain, 4-wk",28,-0.166723043731574
+2003–2025,"South Sudan rain, 4-wk",30,-0.1405158969234487
+2003–2025,"South Sudan rain, 4-wk",32,-0.13538686902935454
+2003–2025,"South Sudan rain, 4-wk",34,-0.15968642769727495
+2003–2025,"South Sudan rain, 4-wk",36,-0.17677555770928774
+2003–2025,"South Sudan rain, 4-wk",38,-0.16878402434021147
+2003–2025,"South Sudan rain, 4-wk",40,-0.18387579878810228
+2003–2025,"South Sudan rain, 4-wk",42,-0.22638963756080543
+2003–2025,"South Sudan rain, 4-wk",44,-0.2520406832854086
+2003–2025,"South Sudan rain, 4-wk",46,-0.25884091720987784
+2003–2025,"South Sudan rain, 4-wk",48,-0.25888476099055324
+2003–2025,"South Sudan rain, 4-wk",50,-0.25193024223591604
+2003–2025,"South Sudan rain, 4-wk",52,-0.2482240729762177
+2003–2025,"South Sudan rain, 26-wk",0,-0.23822801737133853
+2003–2025,"South Sudan rain, 26-wk",2,-0.22767840235138223
+2003–2025,"South Sudan rain, 26-wk",4,-0.23233492644266557
+2003–2025,"South Sudan rain, 26-wk",6,-0.2380180866689044
+2003–2025,"South Sudan rain, 26-wk",8,-0.234764848281656
+2003–2025,"South Sudan rain, 26-wk",10,-0.23859562179520064
+2003–2025,"South Sudan rain, 26-wk",12,-0.24441042794687928
+2003–2025,"South Sudan rain, 26-wk",14,-0.24966086564814036
+2003–2025,"South Sudan rain, 26-wk",16,-0.2537994379881484
+2003–2025,"South Sudan rain, 26-wk",18,-0.2636892574075881
+2003–2025,"South Sudan rain, 26-wk",20,-0.28030471694930714
+2003–2025,"South Sudan rain, 26-wk",22,-0.2969066764815809
+2003–2025,"South Sudan rain, 26-wk",24,-0.31854206314661704
+2003–2025,"South Sudan rain, 26-wk",26,-0.3313646762846606
+2003–2025,"South Sudan rain, 26-wk",28,-0.34476950510783083
+2003–2025,"South Sudan rain, 26-wk",30,-0.3558171690873596
+2003–2025,"South Sudan rain, 26-wk",32,-0.36804055611170855
+2003–2025,"South Sudan rain, 26-wk",34,-0.3837511539092275
+2003–2025,"South Sudan rain, 26-wk",36,-0.39522334943578086
+2003–2025,"South Sudan rain, 26-wk",38,-0.3954700579417245
+2003–2025,"South Sudan rain, 26-wk",40,-0.3995057447930818
+2003–2025,"South Sudan rain, 26-wk",42,-0.3972599064162192
+2003–2025,"South Sudan rain, 26-wk",44,-0.39094812075016083
+2003–2025,"South Sudan rain, 26-wk",46,-0.37813352497883773
+2003–2025,"South Sudan rain, 26-wk",48,-0.36932859867955775
+2003–2025,"South Sudan rain, 26-wk",50,-0.35655043348927895
+2003–2025,"South Sudan rain, 26-wk",52,-0.34828450756711204
+2003–2025,"South Sudan runoff, 13-wk",0,-0.15238853370239425
+2003–2025,"South Sudan runoff, 13-wk",2,-0.1492027363345534
+2003–2025,"South Sudan runoff, 13-wk",4,-0.16303578073510352
+2003–2025,"South Sudan runoff, 13-wk",6,-0.17132427958973034
+2003–2025,"South Sudan runoff, 13-wk",8,-0.17477332714175495
+2003–2025,"South Sudan runoff, 13-wk",10,-0.18672530425398892
+2003–2025,"South Sudan runoff, 13-wk",12,-0.2008826961036919
+2003–2025,"South Sudan runoff, 13-wk",14,-0.21710228731288503
+2003–2025,"South Sudan runoff, 13-wk",16,-0.22699409284482536
+2003–2025,"South Sudan runoff, 13-wk",18,-0.23532151186557165
+2003–2025,"South Sudan runoff, 13-wk",20,-0.24034847371603282
+2003–2025,"South Sudan runoff, 13-wk",22,-0.24706221105220671
+2003–2025,"South Sudan runoff, 13-wk",24,-0.2518221379936139
+2003–2025,"South Sudan runoff, 13-wk",26,-0.2548927581975374
+2003–2025,"South Sudan runoff, 13-wk",28,-0.25384367413020953
+2003–2025,"South Sudan runoff, 13-wk",30,-0.25959706357225104
+2003–2025,"South Sudan runoff, 13-wk",32,-0.27189856870681106
+2003–2025,"South Sudan runoff, 13-wk",34,-0.28462812969641715
+2003–2025,"South Sudan runoff, 13-wk",36,-0.2943582962263774
+2003–2025,"South Sudan runoff, 13-wk",38,-0.2992593065998274
+2003–2025,"South Sudan runoff, 13-wk",40,-0.304089306506928
+2003–2025,"South Sudan runoff, 13-wk",42,-0.3066205964723965
+2003–2025,"South Sudan runoff, 13-wk",44,-0.3018783466266904
+2003–2025,"South Sudan runoff, 13-wk",46,-0.29352055258469223
+2003–2025,"South Sudan runoff, 13-wk",48,-0.28484539720954005
+2003–2025,"South Sudan runoff, 13-wk",50,-0.27300640628746825
+2003–2025,"South Sudan runoff, 13-wk",52,-0.2627336317389819
+2003–2025,"South Sudan P–ET, 26-wk",0,-0.17854274991793093
+2003–2025,"South Sudan P–ET, 26-wk",2,-0.17428996916468328
+2003–2025,"South Sudan P–ET, 26-wk",4,-0.18346397558330235
+2003–2025,"South Sudan P–ET, 26-wk",6,-0.19042548392616326
+2003–2025,"South Sudan P–ET, 26-wk",8,-0.19181195017398597
+2003–2025,"South Sudan P–ET, 26-wk",10,-0.19928945193341863
+2003–2025,"South Sudan P–ET, 26-wk",12,-0.2090949032382743
+2003–2025,"South Sudan P–ET, 26-wk",14,-0.21729255133489267
+2003–2025,"South Sudan P–ET, 26-wk",16,-0.22248289524410897
+2003–2025,"South Sudan P–ET, 26-wk",18,-0.22935481324650994
+2003–2025,"South Sudan P–ET, 26-wk",20,-0.2447553170770708
+2003–2025,"South Sudan P–ET, 26-wk",22,-0.2586806045977147
+2003–2025,"South Sudan P–ET, 26-wk",24,-0.2759778389219949
+2003–2025,"South Sudan P–ET, 26-wk",26,-0.2856518769404625
+2003–2025,"South Sudan P–ET, 26-wk",28,-0.29514195996911435
+2003–2025,"South Sudan P–ET, 26-wk",30,-0.3034627157907543
+2003–2025,"South Sudan P–ET, 26-wk",32,-0.3138456536107611
+2003–2025,"South Sudan P–ET, 26-wk",34,-0.327190513641974
+2003–2025,"South Sudan P–ET, 26-wk",36,-0.33402601148000455
+2003–2025,"South Sudan P–ET, 26-wk",38,-0.3321735865728392
+2003–2025,"South Sudan P–ET, 26-wk",40,-0.3342561678910341
+2003–2025,"South Sudan P–ET, 26-wk",42,-0.3326652466390528
+2003–2025,"South Sudan P–ET, 26-wk",44,-0.3255901687722882
+2003–2025,"South Sudan P–ET, 26-wk",46,-0.3134468026372595
+2003–2025,"South Sudan P–ET, 26-wk",48,-0.30537564421247326
+2003–2025,"South Sudan P–ET, 26-wk",50,-0.2934908546472473
+2003–2025,"South Sudan P–ET, 26-wk",52,-0.2860693737603431
+2003–2025,"Sudd rain, 13-wk",0,-0.23934562926438996
+2003–2025,"Sudd rain, 13-wk",2,-0.21273739537008737
+2003–2025,"Sudd rain, 13-wk",4,-0.21036113329086237
+2003–2025,"Sudd rain, 13-wk",6,-0.20779593010722194
+2003–2025,"Sudd rain, 13-wk",8,-0.2030167149578752
+2003–2025,"Sudd rain, 13-wk",10,-0.20259992299959892
+2003–2025,"Sudd rain, 13-wk",12,-0.20587892529376195
+2003–2025,"Sudd rain, 13-wk",14,-0.21774149609344257
+2003–2025,"Sudd rain, 13-wk",16,-0.23247285709472468
+2003–2025,"Sudd rain, 13-wk",18,-0.24379567404454275
+2003–2025,"Sudd rain, 13-wk",20,-0.2452441646413166
+2003–2025,"Sudd rain, 13-wk",22,-0.24876801780123467
+2003–2025,"Sudd rain, 13-wk",24,-0.2560087207838793
+2003–2025,"Sudd rain, 13-wk",26,-0.2616067524783355
+2003–2025,"Sudd rain, 13-wk",28,-0.25840914260222997
+2003–2025,"Sudd rain, 13-wk",30,-0.2602521647250388
+2003–2025,"Sudd rain, 13-wk",32,-0.27072326927339846
+2003–2025,"Sudd rain, 13-wk",34,-0.2949652202621246
+2003–2025,"Sudd rain, 13-wk",36,-0.3232299379542795
+2003–2025,"Sudd rain, 13-wk",38,-0.34354301813860466
+2003–2025,"Sudd rain, 13-wk",40,-0.3598983316649786
+2003–2025,"Sudd rain, 13-wk",42,-0.3697500295299686
+2003–2025,"Sudd rain, 13-wk",44,-0.37931595288946013
+2003–2025,"Sudd rain, 13-wk",46,-0.3789950672482849
+2003–2025,"Sudd rain, 13-wk",48,-0.3791954597496011
+2003–2025,"Sudd rain, 13-wk",50,-0.36828053197405275
+2003–2025,"Sudd rain, 13-wk",52,-0.3661711936926928
+2003–2025,Malakal discharge,0,-0.35773835793152475
+2003–2025,Malakal discharge,2,-0.3655399779732832
+2003–2025,Malakal discharge,4,-0.3218544786586022
+2003–2025,Malakal discharge,6,-0.34088022460890716
+2003–2025,Malakal discharge,8,-0.34874204955389926
+2003–2025,Malakal discharge,10,-0.32605199201207075
+2003–2025,Malakal discharge,12,-0.3467950655527976
+2003–2025,Malakal discharge,14,-0.34066144667806075
+2003–2025,Malakal discharge,16,-0.33503135593339656
+2003–2025,Malakal discharge,18,-0.36005159566109907
+2003–2025,Malakal discharge,20,-0.35906749427812534
+2003–2025,Malakal discharge,22,-0.36521498816256986
+2003–2025,Malakal discharge,24,-0.37154806203796703
+2003–2025,Malakal discharge,26,-0.35824013606037297
+2003–2025,Malakal discharge,28,-0.3508770024365139
+2003–2025,Malakal discharge,30,-0.33814399700005343
+2003–2025,Malakal discharge,32,-0.29502792169488273
+2003–2025,Malakal discharge,34,-0.31033779004536355
+2003–2025,Malakal discharge,36,-0.3176800764324146
+2003–2025,Malakal discharge,38,-0.3166719958659971
+2003–2025,Malakal discharge,40,-0.29443461572421903
+2003–2025,Malakal discharge,42,-0.27553217888796544
+2003–2025,Malakal discharge,44,-0.2791454626660094
+2003–2025,Malakal discharge,46,-0.2624055065094082
+2003–2025,Malakal discharge,48,-0.23367734057633374
+2003–2025,Malakal discharge,50,-0.2323615584057431
+2003–2025,Malakal discharge,52,-0.23476140383480168
+2003–2019 (pre-shift),Lake Albert level anomaly,0,-0.044977251825595914
+2003–2019 (pre-shift),Lake Albert level anomaly,2,-0.058848720220112935
+2003–2019 (pre-shift),Lake Albert level anomaly,4,-0.08059457274709377
+2003–2019 (pre-shift),Lake Albert level anomaly,6,-0.08760544493309895
+2003–2019 (pre-shift),Lake Albert level anomaly,8,-0.1070022913503862
+2003–2019 (pre-shift),Lake Albert level anomaly,10,-0.12971372787116914
+2003–2019 (pre-shift),Lake Albert level anomaly,12,-0.13490630913750368
+2003–2019 (pre-shift),Lake Albert level anomaly,14,-0.1397284307072282
+2003–2019 (pre-shift),Lake Albert level anomaly,16,-0.14792925254539396
+2003–2019 (pre-shift),Lake Albert level anomaly,18,-0.13754655726575557
+2003–2019 (pre-shift),Lake Albert level anomaly,20,-0.13812783621122093
+2003–2019 (pre-shift),Lake Albert level anomaly,22,-0.14284823516617196
+2003–2019 (pre-shift),Lake Albert level anomaly,24,-0.13684568545295311
+2003–2019 (pre-shift),Lake Albert level anomaly,26,-0.1293113876914433
+2003–2019 (pre-shift),Lake Albert level anomaly,28,-0.13349716591667782
+2003–2019 (pre-shift),Lake Albert level anomaly,30,-0.13501123450966154
+2003–2019 (pre-shift),Lake Albert level anomaly,32,-0.13299926971509532
+2003–2019 (pre-shift),Lake Albert level anomaly,34,-0.13716305900152514
+2003–2019 (pre-shift),Lake Albert level anomaly,36,-0.13854992502131105
+2003–2019 (pre-shift),Lake Albert level anomaly,38,-0.13376362136466796
+2003–2019 (pre-shift),Lake Albert level anomaly,40,-0.131271980557871
+2003–2019 (pre-shift),Lake Albert level anomaly,42,-0.12147671604598227
+2003–2019 (pre-shift),Lake Albert level anomaly,44,-0.10465084065769246
+2003–2019 (pre-shift),Lake Albert level anomaly,46,-0.0978707499127316
+2003–2019 (pre-shift),Lake Albert level anomaly,48,-0.08306162385716509
+2003–2019 (pre-shift),Lake Albert level anomaly,50,-0.06203983691705894
+2003–2019 (pre-shift),Lake Albert level anomaly,52,-0.04781599448313362
+2003–2019 (pre-shift),Lake Albert 26-wk rise,0,0.11109373273227158
+2003–2019 (pre-shift),Lake Albert 26-wk rise,2,0.09453029982964078
+2003–2019 (pre-shift),Lake Albert 26-wk rise,4,0.06708070130759324
+2003–2019 (pre-shift),Lake Albert 26-wk rise,6,0.057100283314437415
+2003–2019 (pre-shift),Lake Albert 26-wk rise,8,0.04671550185762849
+2003–2019 (pre-shift),Lake Albert 26-wk rise,10,0.025327952977673242
+2003–2019 (pre-shift),Lake Albert 26-wk rise,12,0.012034274254661028
+2003–2019 (pre-shift),Lake Albert 26-wk rise,14,-0.0014804298523640113
+2003–2019 (pre-shift),Lake Albert 26-wk rise,16,-0.030855897064607243
+2003–2019 (pre-shift),Lake Albert 26-wk rise,18,-0.04052464625423313
+2003–2019 (pre-shift),Lake Albert 26-wk rise,20,-0.054727468808010514
+2003–2019 (pre-shift),Lake Albert 26-wk rise,22,-0.07979639074533879
+2003–2019 (pre-shift),Lake Albert 26-wk rise,24,-0.0963448881673964
+2003–2019 (pre-shift),Lake Albert 26-wk rise,26,-0.11103462685523807
+2003–2019 (pre-shift),Lake Albert 26-wk rise,28,-0.12423501651818956
+2003–2019 (pre-shift),Lake Albert 26-wk rise,30,-0.12846920476689916
+2003–2019 (pre-shift),Lake Albert 26-wk rise,32,-0.12845584264988133
+2003–2019 (pre-shift),Lake Albert 26-wk rise,34,-0.14694614967203357
+2003–2019 (pre-shift),Lake Albert 26-wk rise,36,-0.16850425027389537
+2003–2019 (pre-shift),Lake Albert 26-wk rise,38,-0.1862155958068664
+2003–2019 (pre-shift),Lake Albert 26-wk rise,40,-0.1904376507914111
+2003–2019 (pre-shift),Lake Albert 26-wk rise,42,-0.20453888078238014
+2003–2019 (pre-shift),Lake Albert 26-wk rise,44,-0.19073451623467538
+2003–2019 (pre-shift),Lake Albert 26-wk rise,46,-0.19489933719545166
+2003–2019 (pre-shift),Lake Albert 26-wk rise,48,-0.18380842343713258
+2003–2019 (pre-shift),Lake Albert 26-wk rise,50,-0.17269571597000655
+2003–2019 (pre-shift),Lake Albert 26-wk rise,52,-0.16868395301634373
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",0,0.2091421306296207
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",2,0.2066520638334785
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",4,0.19810231376763215
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",6,0.18252432671952
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",8,0.16961167004180522
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",10,0.1584492417580628
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",12,0.15148381937837285
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",14,0.1410659410218771
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",16,0.14206489610792739
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",18,0.13361599675221167
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",20,0.11872997626023292
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",22,0.09965789470256456
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",24,0.08606428508846721
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",26,0.09028276798091751
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",28,0.086446142159204
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",30,0.08434899763959042
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",32,0.07497540990149952
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",34,0.06192839738003269
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",36,0.05288425529503521
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",38,0.04649565083032097
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",40,0.0329626118260165
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",42,0.018699105883654935
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",44,0.019635022827618424
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",46,0.03333814100905882
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",48,0.03008257175535549
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",50,0.04632274301860422
+2003–2019 (pre-shift),"Equatorial-lakes rain, 52-wk",52,0.05377267009292267
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",0,0.21537154057184738
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",2,0.19988666632771776
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",4,0.18289132701045238
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",6,0.1654755614591385
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",8,0.14941971571801177
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",10,0.13566003344262856
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",12,0.1212361636941837
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",14,0.10578701278343797
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",16,0.09835296561207017
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",18,0.08843009830721742
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",20,0.07730038417113458
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",22,0.06827250028672167
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",24,0.06321920909064346
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",26,0.06852835845234638
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",28,0.06814760188381733
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",30,0.06755476650311498
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",32,0.06216417997803974
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",34,0.05558564430808287
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",36,0.049357584200595356
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",38,0.04539107332534871
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",40,0.040864363837997845
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",42,0.03958680114224735
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",44,0.04871846754345369
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",46,0.05876739393713301
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",48,0.06433579754549233
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",50,0.07925227099700072
+2003–2019 (pre-shift),"Equatorial-lakes runoff, 52-wk",52,0.08849060013562228
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",0,0.19793201964865878
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",2,0.2576570912413785
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",4,0.26941880316094674
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",6,0.2779164685207427
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",8,0.2847109519559469
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",10,0.29113523676567754
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",12,0.2766360427997174
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",14,0.2667075268233765
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",16,0.26635928665601655
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",18,0.26027842731648704
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",20,0.24733088987739116
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",22,0.2365992222312417
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",24,0.2343517129998229
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",26,0.2177794909884109
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",28,0.21577071335700895
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",30,0.1772937944842821
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",32,0.1223326937767619
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",34,0.0884367615041783
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",36,0.039343762107808045
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",38,0.016105660661373714
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",40,-0.02319157083746357
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",42,-0.06417122947706858
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",44,-0.08114179889698643
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",46,-0.08178965079040197
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",48,-0.0986489835106037
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",50,-0.07791018276164831
+2003–2019 (pre-shift),"Sobat/Ethiopia rain, 13-wk",52,-0.05293331362001436
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),0,0.1316653737843497
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),2,0.13090499554019333
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),4,0.09546557453056843
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),6,0.08032808068644892
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),8,0.09481177304709232
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),10,0.09578667184269539
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),12,0.11117449554838045
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),14,0.06273755022594278
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),16,0.06639506931334754
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),18,0.0646903741982202
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),20,0.05083548988419446
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),22,0.029725630742415687
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),24,-0.002404150244877432
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),26,0.051945518314164406
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),28,0.05010029422571351
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),30,0.05216751024388079
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),32,0.028313798179648124
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),34,0.015236083366120203
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),36,0.03027692216477606
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),38,0.04711324751069733
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),40,0.014774465678343179
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),42,0.045375459950276475
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),44,0.06593968493885652
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),46,0.06877573931190215
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),48,0.05686161643423624
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),50,0.04669135967215421
+2003–2019 (pre-shift),SW Ethiopia discharge (regional),52,0.06362066885695551
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",0,0.08969200463952817
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",2,0.176979446345851
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",4,0.14862988184445153
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",6,0.14391061886144113
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",8,0.17011309495787766
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",10,0.16243275023381482
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",12,0.12371771019588944
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",14,0.11294599458658666
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",16,0.12590799331250604
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",18,0.13502561111521674
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",20,0.13881500131873267
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",22,0.12179003441859347
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",24,0.09573881719200596
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",26,0.07803586355284096
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",28,0.09348639868901987
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",30,0.12546345920196939
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",32,0.12128648587716706
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",34,0.07986913687512975
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",36,0.06526461281114654
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",38,0.0905433118785986
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",40,0.05601812448037543
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",42,-0.021020151016501436
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",44,-0.05165340375939894
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",46,-0.06643249498608401
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",48,-0.08527307558714728
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",50,-0.08396094164626164
+2003–2019 (pre-shift),"South Sudan rain, 4-wk",52,-0.09759759121388958
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",0,0.2448372980351148
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",2,0.26001280219376866
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",4,0.25241960348828085
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",6,0.23681502383603958
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",8,0.2377640092437199
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",10,0.2247267722770202
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",12,0.2068979572955191
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",14,0.19671426236975986
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",16,0.19394546759648845
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",18,0.1761591251220671
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",20,0.14902752424373047
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",22,0.12334764053551832
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",24,0.08971698088103963
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",26,0.06316793256590185
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",28,0.03991966007171947
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",30,0.013720743412111137
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",32,-0.011532988011502949
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",34,-0.03988222580130951
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",36,-0.06322804749899934
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",38,-0.0680922586595112
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",40,-0.08404925694843231
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",42,-0.09511008652444979
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",44,-0.09325712452985074
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",46,-0.08112103551548895
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",48,-0.07511446007498143
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",50,-0.059771086341280644
+2003–2019 (pre-shift),"South Sudan rain, 26-wk",52,-0.04319629362549271
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",0,0.27055882027607747
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",2,0.2628338192358664
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",4,0.2305859663984263
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",6,0.20919524705649084
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",8,0.19898967105167933
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",10,0.1784528210555167
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",12,0.15421971085516767
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",14,0.1302130461794069
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",16,0.11911217723790962
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",18,0.10852541478089417
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",20,0.09753442410670034
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",22,0.08203192463189997
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",24,0.06757490225444714
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",26,0.056599310013488086
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",28,0.053411842931561815
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",30,0.03745255766149025
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",32,0.016602012950082352
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",34,0.0003100407040086296
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",36,-0.012291354400060815
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",38,-0.021636750366752035
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",40,-0.03349879713604103
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",42,-0.04565021580224962
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",44,-0.040861947891744924
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",46,-0.033234418675979864
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",48,-0.028744421254465136
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",50,-0.012485369500214963
+2003–2019 (pre-shift),"South Sudan runoff, 13-wk",52,0.00038302635433250465
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",0,0.24385852168876418
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",2,0.24811643351187593
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",4,0.23250417613720106
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",6,0.21512308500310437
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",8,0.2089138795935978
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",10,0.19234851852563709
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",12,0.17137754620154377
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",14,0.15925787014588952
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",16,0.1559993003041354
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",18,0.14618214999261311
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",20,0.12283487528810215
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",22,0.10189292011206433
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",24,0.077012929555405
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",26,0.05940679431750011
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",28,0.04242656111257059
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",30,0.020928396644931593
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",32,-0.0007507832405326966
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",34,-0.027106289327558722
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",36,-0.04429127612684129
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",38,-0.04642290591485503
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",40,-0.05990300904343278
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",42,-0.07081195211943593
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",44,-0.06727210938919725
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",46,-0.054149016054947284
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",48,-0.05012709317400653
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",50,-0.03564244647160487
+2003–2019 (pre-shift),"South Sudan P–ET, 26-wk",52,-0.023103676821294293
+2003–2019 (pre-shift),"Sudd rain, 13-wk",0,0.16509721223918888
+2003–2019 (pre-shift),"Sudd rain, 13-wk",2,0.19178086573061018
+2003–2019 (pre-shift),"Sudd rain, 13-wk",4,0.1738719978111699
+2003–2019 (pre-shift),"Sudd rain, 13-wk",6,0.16590416408068354
+2003–2019 (pre-shift),"Sudd rain, 13-wk",8,0.16646971904337693
+2003–2019 (pre-shift),"Sudd rain, 13-wk",10,0.16711852527855078
+2003–2019 (pre-shift),"Sudd rain, 13-wk",12,0.16058118106232244
+2003–2019 (pre-shift),"Sudd rain, 13-wk",14,0.15041377013016827
+2003–2019 (pre-shift),"Sudd rain, 13-wk",16,0.13925348266712678
+2003–2019 (pre-shift),"Sudd rain, 13-wk",18,0.1263594485502085
+2003–2019 (pre-shift),"Sudd rain, 13-wk",20,0.11541962263100082
+2003–2019 (pre-shift),"Sudd rain, 13-wk",22,0.10225674786147597
+2003–2019 (pre-shift),"Sudd rain, 13-wk",24,0.08405856822883058
+2003–2019 (pre-shift),"Sudd rain, 13-wk",26,0.07117431826435293
+2003–2019 (pre-shift),"Sudd rain, 13-wk",28,0.07150378111279335
+2003–2019 (pre-shift),"Sudd rain, 13-wk",30,0.06984275358136198
+2003–2019 (pre-shift),"Sudd rain, 13-wk",32,0.056184962334602635
+2003–2019 (pre-shift),"Sudd rain, 13-wk",34,0.024853552710653225
+2003–2019 (pre-shift),"Sudd rain, 13-wk",36,-0.01743677826534277
+2003–2019 (pre-shift),"Sudd rain, 13-wk",38,-0.04785481404524025
+2003–2019 (pre-shift),"Sudd rain, 13-wk",40,-0.07579155265596343
+2003–2019 (pre-shift),"Sudd rain, 13-wk",42,-0.0996155339652403
+2003–2019 (pre-shift),"Sudd rain, 13-wk",44,-0.12060342651077752
+2003–2019 (pre-shift),"Sudd rain, 13-wk",46,-0.12498407872074563
+2003–2019 (pre-shift),"Sudd rain, 13-wk",48,-0.14157065024922574
+2003–2019 (pre-shift),"Sudd rain, 13-wk",50,-0.1347831567225753
+2003–2019 (pre-shift),"Sudd rain, 13-wk",52,-0.1431353064584189
+2003–2019 (pre-shift),Malakal discharge,0,0.06231188800873407
+2003–2019 (pre-shift),Malakal discharge,2,0.06847648868813341
+2003–2019 (pre-shift),Malakal discharge,4,0.10893932397843122
+2003–2019 (pre-shift),Malakal discharge,6,0.10389181901661712
+2003–2019 (pre-shift),Malakal discharge,8,0.09169682734112103
+2003–2019 (pre-shift),Malakal discharge,10,0.09114046329139688
+2003–2019 (pre-shift),Malakal discharge,12,0.053881284502221946
+2003–2019 (pre-shift),Malakal discharge,14,0.06393312550721707
+2003–2019 (pre-shift),Malakal discharge,16,0.0484413731242891
+2003–2019 (pre-shift),Malakal discharge,18,-0.005743263091960084
+2003–2019 (pre-shift),Malakal discharge,20,-0.006943739047128187
+2003–2019 (pre-shift),Malakal discharge,22,-0.01697338945682517
+2003–2019 (pre-shift),Malakal discharge,24,-0.039161740762183504
+2003–2019 (pre-shift),Malakal discharge,26,-0.02717887948490169
+2003–2019 (pre-shift),Malakal discharge,28,-0.011563956831442469
+2003–2019 (pre-shift),Malakal discharge,30,0.024373974482939036
+2003–2019 (pre-shift),Malakal discharge,32,0.09163427926642365
+2003–2019 (pre-shift),Malakal discharge,34,0.06881837517477836
+2003–2019 (pre-shift),Malakal discharge,36,0.05747261869903969
+2003–2019 (pre-shift),Malakal discharge,38,0.039381084608462534
+2003–2019 (pre-shift),Malakal discharge,40,0.08958997604812831
+2003–2019 (pre-shift),Malakal discharge,42,0.10399646989843385
+2003–2019 (pre-shift),Malakal discharge,44,0.08307226032049575
+2003–2019 (pre-shift),Malakal discharge,46,0.09187185018051827
+2003–2019 (pre-shift),Malakal discharge,48,0.13361931545418188
+2003–2019 (pre-shift),Malakal discharge,50,0.12881663784289465
+2003–2019 (pre-shift),Malakal discharge,52,0.10750585966914288

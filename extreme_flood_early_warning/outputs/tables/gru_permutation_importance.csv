@@ -1,0 +1,41 @@
+group,horizon,auc_drop
+Lake Albert level (upstream),2,-0.00111248019714838
+Lake Albert level (upstream),4,-0.0016619618913196188
+Lake Albert level (upstream),8,-0.0005459057071960371
+Lake Albert level (upstream),13,-0.004314109991977788
+Lake Albert level (upstream),26,0.00940452488687793
+Equatorial-lakes rain & runoff (upstream),2,0.010174265094173629
+Equatorial-lakes rain & runoff (upstream),4,0.009992942836979601
+Equatorial-lakes rain & runoff (upstream),8,0.002651542006380625
+Equatorial-lakes rain & runoff (upstream),13,-0.004888136197521931
+Equatorial-lakes rain & runoff (upstream),26,0.004658823529411937
+Ethiopian highlands / Sobat (upstream),2,0.024963914803731724
+Ethiopian highlands / Sobat (upstream),4,0.036093860268172295
+Ethiopian highlands / Sobat (upstream),8,0.03554413328606876
+Ethiopian highlands / Sobat (upstream),13,0.02534272216775124
+Ethiopian highlands / Sobat (upstream),26,0.002168325791855441
+SW Ethiopia discharge (regional),2,-0.002143988734377822
+SW Ethiopia discharge (regional),4,-0.0010868031051517457
+SW Ethiopia discharge (regional),8,-0.0032187167671038353
+SW Ethiopia discharge (regional),13,-0.003872002852304157
+SW Ethiopia discharge (regional),26,-0.006454298642533773
+"Local rain, runoff & ET (South Sudan)",2,-0.00782960746347483
+"Local rain, runoff & ET (South Sudan)",4,-0.0030875088214536994
+"Local rain, runoff & ET (South Sudan)",8,-0.004080113434952182
+"Local rain, runoff & ET (South Sudan)",13,-0.009401907478384874
+"Local rain, runoff & ET (South Sudan)",26,0.004952036199095011
+White Nile discharge at Malakal (local),2,-0.0006125682098222507
+White Nile discharge at Malakal (local),4,-0.0009456598447423747
+White Nile discharge at Malakal (local),8,-0.00037575327897909627
+White Nile discharge at Malakal (local),13,0.0010410910063286538
+White Nile discharge at Malakal (local),26,0.0031529411764705806
+Current flood state,2,0.004228128850554458
+Current flood state,4,0.0002081863091037972
+Current flood state,8,-0.0012867777383906986
+Current flood state,13,-0.01231838844816835
+Current flood state,26,0.0031312217194572334
+Seasonality,2,0.042295370533356746
+Seasonality,4,0.0617325335215243
+Seasonality,8,0.07148528890464378
+Seasonality,13,0.08370086460468851
+Seasonality,26,0.0559782805429867

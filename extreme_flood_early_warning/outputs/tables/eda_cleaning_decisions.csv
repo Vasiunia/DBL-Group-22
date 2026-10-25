@@ -1,0 +1,13 @@
+decision,why,evidence_from_data
+Study period starts in 2003,Flood masks before 2003 have too few observation days (MODIS Aqua launched mid-2002).,"days with detections: 2000 = 139, 2001 = 192, 2002 = 247, 2003–2025 median = 345"
+Daily flood counts aggregated to the weekly maximum,Single days are often cloud-covered; the maximum of the 3-day composites in a week is robust to gaps.,days without any detection in 2003–2025: 6%
+Pixel counts converted to km²,0.0020833° pixels at ~7°N.,1 pixel = 0.0534 km²
+Clipped to South Sudan,"Flood-mask tiles also cover Sudan, Ethiopia and CAR.",point-in-polygon on the admin-0 boundary
+Old Lake Victoria / Kyoga files not used after 2002,The course files stop in 2002; replaced by NASA G-REALM (1992–2026) in the extended analysis.,last Victoria observation in course file: 2002-08-06
+"Lake levels: weekly median, gaps filled forward only (max 26 weeks)",Altimetry passes are irregular; forward filling never uses future values (no look-ahead).,"Lake Albert: 785 observations, median gap 8 days, longest gap 402 days"
+"Malakal discharge kept only as a local feature, flagged",Satellite-derived discharge drops during the biggest floods (saturation artefact).,"yearly mean m³/s: 2019 = 5708, 2022 = 4429, 2023 = 4572 (while flooding peaked)"
+DFO station 1505 not counted as 'upstream',"It lies at 4.9°N 36.0°E in the Omo–Turkana basin, which does not drain to the Nile.",station metadata
+ERA5 hourly accumulations summed to daily totals,ERA5 'tp' and 'ro' are hourly accumulations in metres.,"South Sudan mean rainfall 932 mm/yr (2003–19), plausible"
+Anomalies relative to the week-of-year climatology of 2003–2019,Removes the seasonal cycle; 2003–2019 is the 'normal regime' reference.,±2-week smoothed climatology
+Extreme week = unusual area above the 2003–2019 90th percentile,Defines 'extreme' relative to the normal regime.,threshold = 408 km²
+Recurring and unusual pixels counted separately,A pixel is classified once per day by the product.,days with both types present: 81%

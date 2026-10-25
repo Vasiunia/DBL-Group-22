@@ -1,0 +1,210 @@
+Extreme threshold (P90 of weekly unusual extent, 2003-2019): 408 km²
+Extreme-week share by year:
+ date
+2003    0.00
+2004    0.00
+2005    0.00
+2006    0.11
+2007    0.23
+2008    0.23
+2009    0.13
+2010    0.08
+2011    0.02
+2012    0.09
+2013    0.13
+2014    0.29
+2015    0.15
+2016    0.12
+2017    0.08
+2018    0.02
+2019    0.02
+2020    0.38
+2021    0.50
+2022    0.83
+2023    0.98
+2024    0.94
+2025    0.87
+
+Driver contrast (Jul-Dec, extreme vs normal weeks):
+                           driver  mean_extreme  mean_normal  cohens_d
+       Lake Albert level anomaly          1.62         0.26      1.28
+SW Ethiopia discharge (regional)          1.79         0.19      0.80
+          Lake Albert 26-wk rise          0.29         0.06      0.43
+  Equatorial-lakes runoff, 52-wk         -0.53         0.04     -0.18
+      Sobat/Ethiopia rain, 13-wk         -0.37        -0.01     -0.22
+    Equatorial-lakes rain, 52-wk         -0.44        -0.02     -0.25
+       South Sudan runoff, 13-wk         -1.25        -0.24     -0.38
+          South Sudan rain, 4-wk         -0.86         0.04     -0.63
+         South Sudan P–ET, 26-wk         -1.82        -0.26     -0.67
+                Sudd rain, 13-wk         -1.41        -0.11     -0.75
+         South Sudan rain, 26-wk         -1.93        -0.28     -0.75
+               Malakal discharge         -3.67        -0.11     -1.03
+
+Single-driver early-warning AUC:
+ horizon                                                   0     2     4     8     13    26
+period                driver                                                              
+2003–2019 (pre-shift) Equatorial-lakes rain, 52-wk      0.56  0.56  0.56  0.57  0.57  0.57
+                      Equatorial-lakes runoff, 52-wk    0.54  0.54  0.54  0.55  0.56  0.57
+                      Lake Albert 26-wk rise            0.72  0.70  0.68  0.61  0.51  0.23
+                      Lake Albert level anomaly         0.49  0.49  0.49  0.44  0.37  0.35
+                      Malakal discharge                 0.53  0.55  0.57  0.57  0.54  0.53
+                      SW Ethiopia discharge (regional)  0.56  0.58  0.58  0.57  0.60  0.51
+                      Sobat/Ethiopia rain, 13-wk        0.56  0.63  0.67  0.73  0.73  0.65
+                      South Sudan P–ET, 26-wk           0.60  0.62  0.64  0.66  0.67  0.52
+                      South Sudan rain, 26-wk           0.58  0.61  0.62  0.65  0.67  0.51
+                      South Sudan rain, 4-wk            0.42  0.49  0.51  0.56  0.63  0.56
+                      South Sudan runoff, 13-wk         0.62  0.63  0.63  0.64  0.62  0.56
+                      Sudd rain, 13-wk                  0.44  0.50  0.54  0.61  0.66  0.62
+2003–2025             Equatorial-lakes rain, 52-wk      0.44  0.44  0.43  0.43  0.44  0.45
+                      Equatorial-lakes runoff, 52-wk    0.44  0.44  0.43  0.43  0.44  0.47
+                      Lake Albert 26-wk rise            0.60  0.60  0.59  0.57  0.52  0.41
+                      Lake Albert level anomaly         0.82  0.83  0.82  0.80  0.78  0.76
+                      Malakal discharge                 0.23  0.23  0.25  0.26  0.27  0.29
+                      SW Ethiopia discharge (regional)  0.74  0.74  0.75  0.74  0.76  0.70
+                      Sobat/Ethiopia rain, 13-wk        0.39  0.42  0.44  0.47  0.47  0.41
+                      South Sudan P–ET, 26-wk           0.35  0.35  0.35  0.35  0.33  0.27
+                      South Sudan rain, 26-wk           0.31  0.32  0.32  0.32  0.31  0.24
+                      South Sudan rain, 4-wk            0.31  0.35  0.36  0.40  0.43  0.37
+                      South Sudan runoff, 13-wk         0.35  0.36  0.36  0.37  0.35  0.30
+                      Sudd rain, 13-wk                  0.27  0.30  0.32  0.36  0.37  0.32
+
+Upstream threshold crossings vs. onset of the sustained extreme regime:
+                              signal first_crossing sustained_regime_onset  lead_weeks  weeks_above_threshold_2003_2018
+       Lake Albert anomaly > +0.5 m     2019-12-01             2020-08-02          35                              144
+       Lake Albert anomaly > +1.0 m     2020-05-03             2020-08-02          13                                2
+  Equatorial-lakes 52-wk rain > +2σ     2019-12-01             2020-08-02          35                               70
+Equatorial-lakes 52-wk runoff > +2σ     2019-12-15             2020-08-02          33                              173
+
+Leave-one-year-out CV ...
+    LOYO 2003: done
+    LOYO 2004: done
+    LOYO 2005: done
+    LOYO 2006: done
+    LOYO 2007: done
+    LOYO 2008: done
+    LOYO 2009: done
+    LOYO 2010: done
+    LOYO 2011: done
+    LOYO 2012: done
+    LOYO 2013: done
+    LOYO 2014: done
+    LOYO 2015: done
+    LOYO 2016: done
+    LOYO 2017: done
+    LOYO 2018: done
+    LOYO 2019: done
+    LOYO 2020: done
+    LOYO 2021: done
+    LOYO 2022: done
+    LOYO 2023: done
+    LOYO 2024: done
+    LOYO 2025: done
+                                       model  horizon   auc    ap  brier    n   pos   bss
+                                 Climatology        2 0.594 0.383  0.196 1199 0.271 0.000
+                                 Climatology        4 0.594 0.386  0.195 1197 0.272 0.000
+                                 Climatology        8 0.592 0.389  0.196 1193 0.272 0.000
+                                 Climatology       13 0.592 0.391  0.197 1188 0.274 0.000
+                                 Climatology       26 0.594 0.407  0.197 1175 0.277 0.000
+Persistence (logistic, flood state + season)        2 0.957 0.901  0.068 1199 0.271 0.653
+Persistence (logistic, flood state + season)        4 0.940 0.849  0.081 1197 0.272 0.587
+Persistence (logistic, flood state + season)        8 0.913 0.786  0.100 1193 0.272 0.489
+Persistence (logistic, flood state + season)       13 0.882 0.729  0.119 1188 0.274 0.393
+Persistence (logistic, flood state + season)       26 0.813 0.633  0.152 1175 0.277 0.230
+          Logistic regression – all features        2 0.951 0.886  0.077 1199 0.271 0.609
+          Logistic regression – all features        4 0.935 0.860  0.086 1197 0.272 0.558
+          Logistic regression – all features        8 0.906 0.816  0.103 1193 0.272 0.475
+          Logistic regression – all features       13 0.908 0.814  0.104 1188 0.274 0.470
+          Logistic regression – all features       26 0.887 0.776  0.116 1175 0.277 0.412
+            Gradient boosting – all features        2 0.947 0.863  0.081 1199 0.271 0.585
+            Gradient boosting – all features        4 0.935 0.847  0.092 1197 0.272 0.528
+            Gradient boosting – all features        8 0.903 0.788  0.114 1193 0.272 0.417
+            Gradient boosting – all features       13 0.912 0.782  0.107 1188 0.274 0.458
+            Gradient boosting – all features       26 0.908 0.807  0.108 1175 0.277 0.454
+                          GRU – all features        2 0.935 0.844  0.096 1199 0.271 0.507
+                          GRU – all features        4 0.937 0.840  0.096 1197 0.272 0.509
+                          GRU – all features        8 0.937 0.842  0.091 1193 0.272 0.533
+                          GRU – all features       13 0.921 0.835  0.098 1188 0.274 0.499
+                          GRU – all features       26 0.890 0.791  0.118 1175 0.277 0.400
+   GRU – hydro-climate only (no flood state)        2 0.908 0.779  0.106 1199 0.271 0.457
+   GRU – hydro-climate only (no flood state)        4 0.918 0.808  0.105 1197 0.272 0.462
+   GRU – hydro-climate only (no flood state)        8 0.916 0.826  0.109 1193 0.272 0.442
+   GRU – hydro-climate only (no flood state)       13 0.911 0.819  0.109 1188 0.274 0.444
+   GRU – hydro-climate only (no flood state)       26 0.880 0.789  0.118 1175 0.277 0.403
+                      GRU – without upstream        2 0.949 0.869  0.079 1199 0.271 0.595
+                      GRU – without upstream        4 0.940 0.863  0.084 1197 0.272 0.569
+                      GRU – without upstream        8 0.931 0.856  0.090 1193 0.272 0.541
+                      GRU – without upstream       13 0.916 0.834  0.100 1188 0.274 0.489
+                      GRU – without upstream       26 0.871 0.741  0.133 1175 0.277 0.326
+                GRU – upstream + season only        2 0.827 0.590  0.167 1199 0.271 0.144
+                GRU – upstream + season only        4 0.820 0.604  0.171 1197 0.272 0.128
+                GRU – upstream + season only        8 0.814 0.605  0.176 1193 0.272 0.102
+                GRU – upstream + season only       13 0.800 0.573  0.184 1188 0.274 0.063
+                GRU – upstream + season only       26 0.796 0.588  0.196 1175 0.277 0.007
+        Ensemble (GRU + logistic + boosting)        2 0.961 0.897  0.070 1199 0.271 0.642
+        Ensemble (GRU + logistic + boosting)        4 0.951 0.886  0.077 1197 0.272 0.606
+        Ensemble (GRU + logistic + boosting)        8 0.940 0.859  0.086 1193 0.272 0.558
+        Ensemble (GRU + logistic + boosting)       13 0.936 0.852  0.088 1188 0.274 0.551
+        Ensemble (GRU + logistic + boosting)       26 0.913 0.826  0.098 1175 0.277 0.504
+
+Forward test (train <=2018, test 2019-2025) ...
+    forward: done
+                                       model  horizon   auc    ap  brier   n   pos    bss
+                                 Climatology        2 0.664 0.782  0.501 364 0.651  0.000
+                                 Climatology        4 0.673 0.792  0.502 362 0.655  0.000
+                                 Climatology        8 0.686 0.804  0.506 358 0.662  0.000
+                                 Climatology       13 0.684 0.810  0.514 353 0.671  0.000
+                                 Climatology       26 0.671 0.822  0.538 340 0.697  0.000
+Persistence (logistic, flood state + season)        2 0.901 0.942  0.210 364 0.651  0.581
+Persistence (logistic, flood state + season)        4 0.862 0.921  0.313 362 0.655  0.377
+Persistence (logistic, flood state + season)        8 0.807 0.900  0.400 358 0.662  0.210
+Persistence (logistic, flood state + season)       13 0.765 0.883  0.461 353 0.671  0.102
+Persistence (logistic, flood state + season)       26 0.705 0.835  0.561 340 0.697 -0.044
+          Logistic regression – all features        2 0.766 0.809  0.499 364 0.651  0.004
+          Logistic regression – all features        4 0.533 0.655  0.618 362 0.655 -0.230
+          Logistic regression – all features        8 0.398 0.584  0.643 358 0.662 -0.269
+          Logistic regression – all features       13 0.505 0.656  0.644 353 0.671 -0.254
+          Logistic regression – all features       26 0.572 0.728  0.647 340 0.697 -0.203
+            Gradient boosting – all features        2 0.833 0.858  0.522 364 0.651 -0.042
+            Gradient boosting – all features        4 0.703 0.798  0.570 362 0.655 -0.136
+            Gradient boosting – all features        8 0.661 0.773  0.601 358 0.662 -0.187
+            Gradient boosting – all features       13 0.605 0.738  0.615 353 0.671 -0.197
+            Gradient boosting – all features       26 0.621 0.728  0.683 340 0.697 -0.271
+                          GRU – all features        2 0.626 0.682  0.436 364 0.651  0.130
+                          GRU – all features        4 0.587 0.670  0.571 362 0.655 -0.136
+                          GRU – all features        8 0.621 0.714  0.608 358 0.662 -0.200
+                          GRU – all features       13 0.731 0.825  0.518 353 0.671 -0.008
+                          GRU – all features       26 0.549 0.671  0.590 340 0.697 -0.098
+   GRU – hydro-climate only (no flood state)        2 0.606 0.670  0.426 364 0.651  0.150
+   GRU – hydro-climate only (no flood state)        4 0.719 0.772  0.490 362 0.655  0.024
+   GRU – hydro-climate only (no flood state)        8 0.766 0.830  0.521 358 0.662 -0.028
+   GRU – hydro-climate only (no flood state)       13 0.739 0.855  0.508 353 0.671  0.011
+   GRU – hydro-climate only (no flood state)       26 0.637 0.709  0.583 340 0.697 -0.083
+                      GRU – without upstream        2 0.792 0.779  0.210 364 0.651  0.580
+                      GRU – without upstream        4 0.729 0.742  0.390 362 0.655  0.223
+                      GRU – without upstream        8 0.715 0.748  0.554 358 0.662 -0.093
+                      GRU – without upstream       13 0.737 0.758  0.457 353 0.671  0.111
+                      GRU – without upstream       26 0.580 0.686  0.573 340 0.697 -0.066
+                GRU – upstream + season only        2 0.458 0.598  0.579 364 0.651 -0.156
+                GRU – upstream + season only        4 0.485 0.648  0.593 362 0.655 -0.181
+                GRU – upstream + season only        8 0.505 0.671  0.593 358 0.662 -0.171
+                GRU – upstream + season only       13 0.424 0.655  0.625 353 0.671 -0.216
+                GRU – upstream + season only       26 0.440 0.695  0.645 340 0.697 -0.199
+        Ensemble (GRU + logistic + boosting)        2 0.724 0.760  0.471 364 0.651  0.059
+        Ensemble (GRU + logistic + boosting)        4 0.628 0.700  0.579 362 0.655 -0.152
+        Ensemble (GRU + logistic + boosting)        8 0.586 0.701  0.612 358 0.662 -0.208
+        Ensemble (GRU + logistic + boosting)       13 0.703 0.798  0.585 353 0.671 -0.138
+        Ensemble (GRU + logistic + boosting)       26 0.587 0.684  0.631 340 0.697 -0.173
+
+Fitting final models on 2003-2025 ...
+    final: done
+P(extreme week) at lead, issued 2025-12-28    2 weeks  4 weeks  8 weeks  13 weeks  26 weeks
+Climatology                                      0.48     0.73     0.36      0.27      0.14
+Persistence (logistic, flood state + season)     0.98     0.96     0.88      0.72      0.34
+Logistic regression – all features               0.99     1.00     0.99      0.98      0.63
+Gradient boosting – all features                 1.00     0.99     0.98      0.99      0.51
+GRU – all features                               1.00     1.00     1.00      1.00      0.94
+GRU – hydro-climate only (no flood state)        1.00     1.00     1.00      1.00      0.93
+GRU – without upstream                           1.00     1.00     1.00      0.99      0.90
+GRU – upstream + season only                     1.00     1.00     1.00      1.00      0.98
+Ensemble (GRU + logistic + boosting)             1.00     0.99     0.99      0.99      0.69
+EXIT 0

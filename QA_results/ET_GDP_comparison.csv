@@ -1,0 +1,12 @@
+Property,Evapotranspiration,GDP
+Source,AgERA5,World Bank
+Temporal resolution,Daily,Annual
+Coverage,2000-01-01 00:00:00 → 2025-12-31 00:00:00,2008 → 2015
+Spatial resolution,0.100° x 0.100°,Whole country
+Coordinate system,Latitude / Longitude,Not applicable
+Units,mm d-1,Current US$
+Missing data,4.54%,87.88%
+Negative / invalid values,0,0
+File completeness,0 missing files,GDP CSV checked
+Can use 1/3/7/15 day windows?,Yes,No
+Role in flood analysis,Driver / flood hazard,Exposure / vulnerability

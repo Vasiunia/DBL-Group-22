@@ -1,0 +1,15 @@
+variable,source,description,first,last,observations,pct_days_missing_2003_2025
+unusual_px_ssd,NASA MODIS/VIIRS flood masks,"unusual flood pixels, South Sudan",2000-02-28,2025-12-31,8496,5.7
+recurring_px_ssd,NASA MODIS/VIIRS flood masks,"recurring (normal) flood pixels, South Sudan",2000-02-28,2025-12-31,8496,5.7
+lake_albert,DAHITI altimetry,Lake Albert water level,2002-07-10,2025-12-23,785,90.9
+lake_victoria,Hydroweb altimetry (old file),Lake Victoria water level,2000-01-07,2002-08-06,90,100.0
+lake_kyoga,Hydroweb altimetry (old file),Lake Kyoga water level,2000-03-16,2002-07-27,39,100.0
+q_malakal,Dartmouth Flood Observatory,White Nile discharge at Malakal (station 100205),2000-01-01,2025-12-31,9495,0.0
+q_ethiopia,Dartmouth Flood Observatory,"SW Ethiopia discharge (station 1505, Omo-Turkana basin)",2000-01-01,2025-12-31,9486,0.1
+tp_ssd,ERA5,"rainfall, South Sudan mean",2000-01-01,2025-12-31,9497,0.0
+tp_lakes,ERA5,"rainfall, equatorial-lakes basin",2000-01-01,2025-12-31,9497,0.0
+tp_sobat,ERA5,"rainfall, Ethiopian highlands / Sobat",2000-01-01,2025-12-31,9497,0.0
+ro_ssd,ERA5,"runoff, South Sudan mean",2000-01-01,2025-12-31,9497,0.0
+et_ssd,AgERA5,"reference evapotranspiration, South Sudan mean",2000-01-01,2025-12-31,9497,0.0
+victoria (G-REALM),NASA G-REALM altimetry (external),"Lake Victoria water level, 10-day",1992-10-07,2026-10-04,1224,1.7
+kyoga (G-REALM),NASA G-REALM altimetry (external),"Lake Kyoga water level, 10-day",1992-09-27,2026-10-04,948,10.6

@@ -1,0 +1,14 @@
+year,month,source,region,evidence,impact,victoria_anom_6m_before,kyoga_anom_6m_before,albert_anom_6m_before
+1996,10,DFO 2577,mixed,"Bor (Jonglei, White Nile) and Tonj (Warrap)","8,000 displaced, 102 dead",0.2316907051282051,-0.4444871794871794,
+1998,8,DFO 2268 / FL-1998-000251-SDN,corridor,rivers listed incl. Jonglei and White Nile,"national event, 900,000 affected (all Sudan)",1.014190705128205,0.5953044871794871,
+2008,8,DFO 3351 / FL-2008-000125-SDN,west,"Aweil, Kuom river, Northern Bahr el Ghazal","39,000 homeless",-0.3774759615384616,-0.1474038461538462,-0.25524088740348816
+2008,10,DFO 3390 / FL-2008-000207-SDN,unknown,'Southern Sudan' only,31 dead,-0.42664262820512827,-0.17157051282051283,-0.24720458686351776
+2011,9,FL-2011-000142-SSD,west,"Agok, Abyei","flash floods, displaced population",-0.4633092948717949,-0.6453205128205127,-0.4314229488372803
+2012,6,FL-2012-000128-SSD,west,Abyei,"seasonal rains, roads flooded",-0.22164262820512823,0.013846153846153841,0.31290945410728455
+2014,8,FL-2014-000123-SSD,corridor,Bentiu (Unity),displacement sites flooded,0.27669070512820515,-0.7578205128205128,-0.22630412876605988
+2017,9,FL-2017-000137-SSD,west,Aweil North and Aweil West,"119,000 affected",0.24835737179487186,-0.30615384615384617,-0.4681432247161865
+2019,6,FL-2019-000062-SSD,west,"Nyamlel, Aweil, Gokmachar (Northern Bahr el Ghazal)",houses and roads destroyed,0.4008573717948718,-0.5461538461538462,-0.2214604616165161
+2020,8,FL-2020-000193-SSD,corridor,areas along the White Nile; Jonglei and Lakes worst,"600,000 affected",1.5316907051282052,1.4738461538461538,1.2632583379745483
+2021,7,FL-2021-000108-SSD,corridor,rising waters; GLIDE centroid 8.1 N 31.0 E (Sudd),"90,000 affected (early season)",1.5762740384615384,2.4434294871794866,2.9454565048217773
+2024,7,FL-2024-000145-SSD,mixed,"Aweil West, Jur River (west) and Panyijar (Unity)","3,180 displaced",1.6941907051282052,1.997179487179487,2.126112222671509
+2025,7,FL-2025-000158-SSD,corridor,Mayendit (Unity) and Bor South (Jonglei),"80,000 affected",1.441690705128205,2.1588461538461536,2.5325815677642822

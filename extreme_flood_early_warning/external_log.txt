@@ -1,0 +1,81 @@
+Lakes: 1992-09-27 to 2026-10-04 1226 obs
+Climate indices: 1870-01-01 to 2026-09-01
+  JRC 1987 done
+  JRC 1985 done
+  JRC 1986 done
+  JRC 1984 done
+  JRC 1988 done
+  JRC 1989 done
+  JRC 1991 done
+  JRC 1992 done
+  JRC 1993 done
+  JRC 1994 done
+  JRC 1996 done
+  JRC 1995 done
+  JRC 1997 done
+  JRC 1999 done
+  JRC 1998 done
+  JRC 2000 done
+  JRC 2001 done
+  JRC 2003 done
+  JRC 2004 done
+  JRC 2005 done
+  JRC 2006 done
+  JRC 2007 done
+  JRC 2008 done
+  JRC 2009 done
+  JRC 2011 done
+  JRC 1990 done
+  JRC 2013 done
+  JRC 2014 done
+  JRC 2015 done
+  JRC 2016 done
+  JRC 2017 done
+  JRC 2018 done
+  JRC 2019 done
+  JRC 2010 done
+  JRC 2012 done
+  JRC 2002 done
+Traceback (most recent call last):
+  File "rasterio/_base.pyx", line 320, in rasterio._base.DatasetBase.__init__
+  File "rasterio/_base.pyx", line 232, in rasterio._base.open_dataset
+  File "rasterio/_err.pyx", line 359, in rasterio._err.exc_wrap_pointer
+rasterio._err.CPLE_HttpResponseError: HTTP response code: 404
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/varvaratolmach/Downloads/raw_data/extreme_flood_early_warning/external_data.py", line 145, in <module>
+    main()
+  File "/Users/varvaratolmach/Downloads/raw_data/extreme_flood_early_warning/external_data.py", line 139, in main
+    j = jrc()
+        ^^^^^
+  File "/Users/varvaratolmach/Downloads/raw_data/extreme_flood_early_warning/external_data.py", line 98, in jrc
+    data = dict(ex.map(jrc_year, range(1984, 2022)))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/opt/anaconda3/lib/python3.12/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/varvaratolmach/Downloads/raw_data/extreme_flood_early_warning/external_data.py", line 75, in jrc_year
+    GDAL_HTTP_MAX_RETRY="5", GDAL_HTTP_RETRY_DELAY="3"), rasterio.open(url) as r:
+                                                         ^^^^^^^^^^^^^^^^^^
+  File "/Users/varvaratolmach/Downloads/raw_data/.venv/lib/python3.12/site-packages/rasterio/env.py", line 464, in wrapper
+    return f(*args, **kwds)
+           ^^^^^^^^^^^^^^^^
+  File "/Users/varvaratolmach/Downloads/raw_data/.venv/lib/python3.12/site-packages/rasterio/__init__.py", line 367, in open
+    dataset = DatasetReader(path, driver=driver, sharing=sharing, thread_safe=thread_safe, **kwargs)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "rasterio/_base.pyx", line 329, in rasterio._base.DatasetBase.__init__
+rasterio.errors.RasterioIOError: HTTP response code: 404
+EXIT 1

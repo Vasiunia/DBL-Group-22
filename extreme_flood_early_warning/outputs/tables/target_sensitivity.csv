@@ -1,0 +1,21 @@
+target,metric,est,ci_low,ci_high
+main,"Albert AUC, lead 0 wk",0.8246212572176915,0.7093678123781534,0.8957348868597216
+main,"Albert AUC, lead 26 wk",0.7608649155722327,0.5533485442708169,0.8611077091886553
+main,"Persistence AUC, lead 13 wk (LOYO)",0.882249754880114,,
+main,"Logistic – all features AUC, lead 13 wk (LOYO)",0.9076067385684998,,
+total_extent,"Albert AUC, lead 0 wk",0.8164680447163046,0.6880153626873272,0.8828481373370475
+total_extent,"Albert AUC, lead 26 wk",0.7500457184656882,0.5557565327821558,0.8494949060680218
+total_extent,"Persistence AUC, lead 13 wk (LOYO)",0.8832336739017845,,
+total_extent,"Logistic – all features AUC, lead 13 wk (LOYO)",0.9081117103152039,,
+total_extent_same_month,"Albert AUC, lead 0 wk",0.8188305898491084,0.6679502127534144,0.8908485024725744
+total_extent_same_month,"Albert AUC, lead 26 wk",0.7932499096302281,0.6094430471329898,0.8872883287248525
+total_extent_same_month,"Persistence AUC, lead 13 wk (LOYO)",0.8321369834565412,,
+total_extent_same_month,"Logistic – all features AUC, lead 13 wk (LOYO)",0.8584209521448883,,
+region_sudd,"Albert AUC, lead 0 wk",0.8473018849965276,0.7141793441670541,0.9110755648325752
+region_sudd,"Albert AUC, lead 26 wk",0.7921684782608696,0.5979221287400358,0.8764996654570921
+region_sudd,"Persistence AUC, lead 13 wk (LOYO)",0.878594392009215,,
+region_sudd,"Logistic – all features AUC, lead 13 wk (LOYO)",0.9052899410318566,,
+region_west,"Albert AUC, lead 0 wk",0.7282558753372698,0.6386021354249177,0.7977908213033806
+region_west,"Albert AUC, lead 26 wk",0.6058186212056866,0.42301378995587263,0.7380840945594794
+region_west,"Persistence AUC, lead 13 wk (LOYO)",0.8396965975167437,,
+region_west,"Logistic – all features AUC, lead 13 wk (LOYO)",0.8359544416511542,,
